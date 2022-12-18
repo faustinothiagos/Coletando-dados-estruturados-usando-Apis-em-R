@@ -1,13 +1,12 @@
 # Coletando-dados-estruturados-usando-APIs-em-R
 Aqui coletamos dados estruturados dos pilotos de F1 do ano de 1957  [Site: Ergast.com](https:https://ergast.com/mrd/)  usando um codigo em R gerando um arquivo no formato json.
 
-### Definiçao: 
+### O que é uma API?
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/97195240/208266774-deb4edc8-b4be-47c6-83a7-9366e6b82e37.png" width="700px" />
 </div>
 
-### O que é uma API?
 
   APIs são mecanismos que permitem que dois componentes de software se comuniquem usando um conjunto de definições e protocolos. Por exemplo, o sistema de software do instituto meteorológico contém dados meteorológicos diários. A aplicação para a previsão do tempo em seu telefone “fala” com esse sistema por meio de APIs e mostra atualizações meteorológicas diárias no telefone.
 
